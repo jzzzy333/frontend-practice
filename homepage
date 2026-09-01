@@ -1,12 +1,31 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
-<head>
+<html lang="en">
+ <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
   <title>个人主页</title>
-</head>
-<body>
-  <h1>zjy的个人主页</h1>
-  <p>36587912343765021700000</p>
-</body>
+ </head>
+ <body>
+   <h1>曾敬雅的个人主页</h1>
+        <p>The universe is made for me</p>
+        <h2>关于我</h2>
+        <p>48393902211050483904822013857</p>
+        <h2>我的爱好</h2>
+        <ul>
+        <li>阅读</li>  
+        <li>作画</li>
+        <li>朋友问我推荐玩什么游戏，我推荐​hpm​a，可是他拒绝了，我真的超级难过，因为我觉得每个人都应该得到报应，但他逃掉了​</li>
+        </ul>
+        <h2>常用链接</h2>
+        <ul>  
+        <li><a href="https://www.runoob.com/html/html-tutorial.html" target="_blank">菜鸟教程</a></li>  
+        <li><a href="https://github.com" target="_blank">GitHub</a></li>  
+        <li><a href="https://www.yunnan.edu.cn" target="_blank">云南大学</a></li>
+        </ul>
+        <h2>我的照片</h2>
+<img src="images/me.jpg" alt="我的照片">
+ </body>
 </html>
